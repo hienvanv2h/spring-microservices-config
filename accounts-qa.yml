@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to V2hBank accounts related QA APIs "
+  contactDetails:
+    name: "David - QA Lead"
+    email: "david@v2hbank.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
