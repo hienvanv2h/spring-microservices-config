@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to V2hBank accounts related prod APIs "
+  message: "Welcome to V2hBank accounts related product APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}980b8766d86f20cf457935265e31168a13cdbd1ed8e550c581390aa164688016d33ed5f4d5d20a2dccc1dc1b178cdf23"
