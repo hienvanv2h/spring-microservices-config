@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to V2hBank accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@v2hbank.com"
+    email: "{cipher}980b8766d86f20cf457935265e31168a13cdbd1ed8e550c581390aa164688016d33ed5f4d5d20a2dccc1dc1b178cdf23"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
