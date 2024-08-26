@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to V2hBank accounts related local APIs "
+  message: "Welcome to V2hBank accounts related docker APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "{cipher}c392edbd58b0d5e3f4fca5aa41afcb5bf02f4a206581e4bd35c057a9ed60535901f81c741bb22a6eda986d01777a8195"
