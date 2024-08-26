@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to V2hBank loans related prod APIs "
+  message: "Welcome to V2hBank loans related docker APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@v2hbank.com"
