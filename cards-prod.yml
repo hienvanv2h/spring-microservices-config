@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to V2hBank cards related products webhook APIs"
+  message: "Welcome to V2hBank cards related products webhook ABC APIs"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@v2hbank.com"
